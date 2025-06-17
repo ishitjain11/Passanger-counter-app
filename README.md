@@ -93,15 +93,15 @@ You can view the live demo of the app [here](https://ishitjain11.github.io/Passa
 
 This app can be easily deployed on platforms like:
 
-- `GitHub Pages (for static sites)
+- GitHub Pages (for static sites)
 
-- `Netlify (static hosting with simple CI/CD)
+- Netlify (static hosting with simple CI/CD)
 
-- `Vercel (for front-end and static hosting)
+- Vercel (for front-end and static hosting)
 
-- `Heroku (for dynamic apps with server-side code)
+- Heroku (for dynamic apps with server-side code)
 
-- `Replit (for quick deployment and collaboration)
+- Replit (for quick deployment and collaboration)
 
 ## Use Cases
 
