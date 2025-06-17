@@ -1,6 +1,7 @@
 
-
 # Passanger-counter-app
+
+**Live Demo**: [Check out the live demo here](https://ishitjain11.github.io/Passanger-counter-app/)
 
 A simple web application to count people entering a location (like a subway station). Perfect for tracking foot traffic or keeping count of visitors.
 
